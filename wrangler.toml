@@ -1,0 +1,6 @@
+name = "my-telegram-bot"
+main = "index.js"
+compatibility_date = "2025-11-20"
+
+[vars]
+# BOT_TOKEN will be injected from GitHub Secrets
